@@ -1,0 +1,5 @@
+print('Hello World')
+print('Hello World','Hello India','Hello friends')
+print(10)
+print(20.5)
+print('Hello World',10,20.5)

@@ -1,0 +1,7 @@
+print('Enter a number: ')
+n = int(input())
+print(n)
+print('Number entered is',n)
+print(n+1)
+print(n+2)
+print(n+3)
