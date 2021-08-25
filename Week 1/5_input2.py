@@ -1,0 +1,8 @@
+print("What is your name?")
+n=str(input())
+print("Hello",n,"Which place are you from?")
+p=str(input())
+print("How is the weather at",p,"?")
+print("What is your age")
+age=int(input())
+print("Good to know you are",age,"years old")
